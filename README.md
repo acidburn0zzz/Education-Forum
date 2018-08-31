@@ -31,4 +31,8 @@ Join our mailing list to stay apprised of the latest contributed materials, ask 
 
 ### Course Materials
 
+**Vulkan**
 *   Oregon State University, Mike Bailey: [Introduction to the Vulkan API](http://cs.oregonstate.edu/~mjb/vulkan)
+
+**WebGL**
+*    Wayne Brown: [Learn Computer Graphics using WebGL](http://webgl.brown37.net/index.html)
