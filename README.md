@@ -31,9 +31,14 @@ Join our mailing list to stay apprised of the latest contributed materials, ask 
 
 ### Course Materials
 
+**OpenGL**
+*   [Learn OpenGL](https://learnopengl.com/), Joey de Vries: The focus of the tutorials are on Modern OpenGL. License: All code samples, unless explicitly stated otherwise, are licensed under the terms of the CC BY-NC 4.0 license as published by Creative Commons, either version 4 of the License, or (at your option) any later version.
+*   [OGL Dev](http://ogldev.org), Etay Meiri: Modern OpenGL Tutorials. License: To be determined.
+
 **Vulkan**
 *   [Oregon State University](https://oregonstate.edu/), Mike Bailey: [Introduction to the Vulkan API](http://cs.oregonstate.edu/~mjb/vulkan)
 *   [New Jersey Institute of Technology](http://www.njit.edu), Donald Kehoe: [3D Game Engine Programming class](https://github.com/engineerOfLies/gf3d) -  a seed project for use by my students to get them started with Vulkan setup (MIT License).
+*   [Vulkan Tutorial](https://vulkan-tutorial.com), Alexander Overvoorde: This tutorial will teach you the basics of using the Vulkan graphics and compute API. License: Text is licensed as CC BY-SA 4.0 and the sample code as CC0 1.0 Universal.
 
 **WebGL**
 *    Wayne Brown: [Learn Computer Graphics using WebGL](http://webgl.brown37.net/index.html)
